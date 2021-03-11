@@ -1,0 +1,16 @@
+<svg width="13.115" height="8.47" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#AA68C9;}</style>
+  <clipPath id="a">
+   <rect id="svg_1" height="8.47" width="13.115" class="a"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(-179.6219024658203 6.82315731048584,4.232831478118895) " id="svg_2">
+   <g id="svg_3" class="b">
+    <path id="svg_4" d="m6.12916,8.179l-5.575,-5.576a0.98,0.98 0 0 1 0,-1.39l0.926,-0.926a0.98,0.98 0 0 1 1.39,0l3.952,3.952l3.953,-3.952a0.98,0.98 0 0 1 1.39,0l0.927,0.927a0.98,0.98 0 0 1 0,1.39l-5.577,5.575a0.976,0.976 0 0 1 -1.386,0" class="c"/>
+   </g>
+  </g>
+ </g>
+</svg>
